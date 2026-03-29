@@ -74,3 +74,6 @@ alias att='sudo apt update && sudo apt upgrade -y' # Atualiza o sistema
 alias zshconfig="nano ~/.zshrc"             # Edita estas configurações
 alias ..='cd ..'
 alias git-gui='github-desktop'
+
+# Created by `pipx` on 2026-03-22 17:21:22
+# export PATH="$PATH:/home/gpwebsolution/.local/bin"
